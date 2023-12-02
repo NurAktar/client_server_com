@@ -20,7 +20,7 @@ nav{
     display: flex;
     justify-content: center;
     width: 100%;
-    height: 0px;
+    height: 1px;
     background-color: transparent;
     color: #a7fd91;
     font-size: 30px;
@@ -91,10 +91,10 @@ nav{
         box-shadow: #000000 0px 0 21px 1px;
     }
     39%{
-        box-shadow: #a80000 0px 0 21px 1px;
+        box-shadow: #5700a8 0px 0 21px 1px;
     }
     50%{
-        box-shadow: #ff0000 0px 0 21px 1px;
+        box-shadow: #8c00ff 0px 0 21px 1px;
     }
     95%{
         box-shadow: #4dc0a3 0px 0 21px 3px;
